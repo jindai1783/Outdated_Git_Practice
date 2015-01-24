@@ -1,4 +1,3 @@
-Version-Control
-===============
+# Outdated Git Practice
 
-Repository for week 2 exercises
+Play around with Git.
