@@ -1,3 +1,3 @@
-# Outdated Git Practice
+# Practice Git
 
-Play around with Git.
+This repository is a note of practicing using Git.
